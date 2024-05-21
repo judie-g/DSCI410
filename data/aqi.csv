@@ -722,12 +722,12 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 12/3/2022,59,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,13,59
 12/4/2022,62,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,13,62
 12/5/2022,57,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,11,57
-12/6/2022,58,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,11,58
+12/6/2022,58,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,11,58
 12/7/2022,69,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,15,69
 12/8/2022,53,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,12,53
 12/9/2022,33,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,6,33
 12/10/2022,20,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,5,20
-12/11/2022,28,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,7,28
+12/11/2022,28,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,7,28
 12/12/2022,33,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,8,33
 12/13/2022,54,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,13,54
 12/14/2022,71,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,18,71
@@ -750,7 +750,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 12/30/2022,31,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,6,31
 12/31/2022,39,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,6,39
 1/1/2023,41,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,7,41
-1/2/2023,33,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,6,33
+1/2/2023,33,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,6,33
 1/3/2023,40,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,7,40
 1/4/2023,54,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,6,54
 1/5/2023,39,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,7,39
@@ -775,7 +775,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 1/23/2023,64,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,16,64
 1/24/2023,54,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,13,54
 1/25/2023,49,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,10,49
-1/26/2023,41,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,9,41
+1/26/2023,41,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,9,41
 1/27/2023,29,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,6,29
 1/28/2023,17,PM2.5,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,.,3,17
 1/29/2023,41,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,10,41
@@ -792,7 +792,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 2/9/2023,58,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,16,58
 2/10/2023,53,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,12,53
 2/11/2023,43,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,11,43
-2/12/2023,58,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,15,58
+2/12/2023,58,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,15,58
 2/13/2023,40,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,9,40
 2/14/2023,41,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,9,41
 2/15/2023,58,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,17,58
@@ -837,7 +837,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 3/26/2023,36,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,8,36
 3/27/2023,35,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,7,35
 3/28/2023,20,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,5,20
-3/29/2023,25,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,6,25
+3/29/2023,25,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,6,25
 3/30/2023,26,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,11,26
 3/31/2023,19,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,10,19
 4/1/2023,13,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,2,13
@@ -995,11 +995,11 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 8/26/2023,127,PM2.5,Oakridge - (OAK),41-039-2013,AQS,41,50,127
 8/27/2023,134,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,31,47,134
 8/28/2023,94,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,28,21,94
-8/29/2023,49,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,28,8,49
+8/29/2023,49,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,28,8,49
 8/30/2023,41,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,41,11,38
 8/31/2023,66,PM2.5,Springfield - City Hall,41-039-1009,AQS,18,16,66
 9/1/2023,56,PM2.5,Oakridge - (OAK),41-039-2013,AQS,26,13,56
-9/2/2023,58,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,35,10,58
+9/2/2023,58,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,35,10,58
 9/3/2023,31,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,27,7,31
 9/4/2023,36,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,36,6,20
 9/5/2023,38,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,38,7,22
@@ -1026,10 +1026,10 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 9/26/2023,30,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,30,3,23
 9/27/2023,30,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,30,7,19
 9/28/2023,29,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AQS,29,6,18
-9/29/2023,20,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,15,4,20
+9/29/2023,20,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,15,4,20
 9/30/2023,44,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,28,7,44
 10/1/2023,41,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,28,9,41
-10/2/2023,32,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,18,8,32
+10/2/2023,32,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,18,8,32
 10/3/2023,22,Ozone,Eugene - AMAZON PARK (EAP),41-039-0060,AirNow,22,4,17
 10/4/2023,28,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,24,9,28
 10/5/2023,52,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,9,52
@@ -1038,12 +1038,12 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 10/8/2023,33,PM2.5,Springfield - City Hall,41-039-1009,AQS,.,10,33
 10/9/2023,32,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,11,32
 10/10/2023,19,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,5,19
-10/11/2023,14,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,4,14
+10/11/2023,14,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,4,14
 10/12/2023,27,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,6,27
 10/13/2023,40,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,7,40
 10/14/2023,44,PM2.5,Springfield - City Hall,41-039-1009,AQS,.,8,44
 10/15/2023,59,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,17,59
-10/16/2023,31,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,11,31
+10/16/2023,31,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,11,31
 10/17/2023,44,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,9,44
 10/18/2023,54,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,17,54
 10/19/2023,70,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,18,70
@@ -1080,7 +1080,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 11/19/2023,32,PM2.5,Cottage Grove - City Shops (CGC),41-039-9004,AQS,.,7,32
 11/20/2023,54,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,10,54
 11/21/2023,59,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,19,59
-11/22/2023,35,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,11,35
+11/22/2023,35,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,11,35
 11/23/2023,33,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,6,33
 11/24/2023,54,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,12,54
 11/25/2023,85,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,14,85
@@ -1102,7 +1102,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 12/11/2023,30,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,6,30
 12/12/2023,39,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,7,39
 12/13/2023,54,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,14,54
-12/14/2023,62,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,19,62
+12/14/2023,62,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,19,62
 12/15/2023,62,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,17,62
 12/16/2023,60,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,18,60
 12/17/2023,72,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,21,72
@@ -1111,7 +1111,7 @@ Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Ove
 12/20/2023,51,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,7,51
 12/21/2023,28,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,9,28
 12/22/2023,38,PM2.5,Eugene - Hwy 99 (E99),41-039-0059,AQS,.,8,38
-12/23/2023,31,PM2.5,Eugene  Wilkes Drive,41-039-0101,AQS,.,6,31
+12/23/2023,31,PM2.5,EugeneÂ  Wilkes Drive,41-039-0101,AQS,.,6,31
 12/24/2023,54,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,13,54
 12/25/2023,57,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,16,57
 12/26/2023,57,PM2.5,Oakridge - (OAK),41-039-2013,AQS,.,15,57
