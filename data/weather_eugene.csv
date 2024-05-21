@@ -1,4 +1,4 @@
-Time,Temperature (°F),,,Dew Point (°F),,,Humidity (%),,,Wind Speed (mph),,,Pressure (in),,,Precipitation (in),
+Time,Temperature (Â°F),,,Dew Point (Â°F),,,Humidity (%),,,Wind Speed (mph),,,Pressure (in),,,Precipitation (in),
 date,Max,Avg,Min,Max,Avg,Min,Max,Avg,Min,Max,Avg,Min,Max,Avg,Min,Total,
 1/1/2020,54,50.5,45,49,46.1,42,90,84.9,66,14,8.6,3,29.8,29.7,29.6,0.52,
 1/2/2020,52,46.1,40,44,41.8,38,93,85.2,71,12,7.1,0,29.8,29.8,29.7,0.06,
