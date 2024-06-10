@@ -17,8 +17,8 @@ This project runs in Python and uses the following packages:
 - seaborn
 - datetime
 
-In addition to the CAHOOTS data, there are three main sources of data:
-- Weather Underground: https://www.wunderground.com/history/monthly/us/or/eugene
+In addition to the CAHOOTS data, there are two main sources of data:
+
 - EPA: https://www.epa.gov/outdoor-air-quality-data/air-quality-index-daily-values-report
 - Time and Date: https://www.timeanddate.com/sun/usa/eugene
 
